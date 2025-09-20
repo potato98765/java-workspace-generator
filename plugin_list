@@ -3,7 +3,7 @@ Version=1.0
 Author=MrPotato
 Description=Adds support for extended Fabric features
 ID=1
-Download=https://example.com/
+Download=https://raw.githubusercontent.com/potato98765/java-workspace-generator/refs/heads/main/plugin_list
 
 [Gradle Complier]
 Version=1.0
