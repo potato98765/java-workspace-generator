@@ -2,3 +2,21 @@
 Version=1.0
 Author=MrPotato
 Description=Adds support for extended Fabric features
+
+[Gradle Complier]
+Version=1.0
+Author=MrPotato
+Description=Adds support for compileing your mods right in this script
+
+[License Generator]
+Version=1.0
+Author=MrPotato
+Description=Create a license for your mod / plugin thats compatible with GitHub
+
+[Readme Generator]
+Version=1.0
+Author=MrPotato
+Description=Create a readme for your mod / plugin thats compatible with GitHub
+
+
+
