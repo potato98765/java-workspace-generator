@@ -3,24 +3,28 @@ Version=1.0
 Author=MrPotato
 Description=Adds support for extended Fabric features
 ID=1
+Download=https://example.com/
 
 [Gradle Complier]
 Version=1.0
 Author=MrPotato
 Description=Adds support for compileing your mods right in this script
 ID=2
+Download=https://example.com/
 
 [License Generator]
 Version=1.0
 Author=MrPotato
 Description=Create a license for your mod / plugin thats compatible with GitHub
 ID=3
+Download=https://example.com/
 
 [Readme Generator]
 Version=1.0
 Author=MrPotato
 Description=Create a readme for your mod / plugin thats compatible with GitHub
 ID=4
+Download=https://example.com/
 
 
 
